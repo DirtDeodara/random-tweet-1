@@ -1,4 +1,4 @@
-# Random Tweet
+# Random Tweet (Worth 10 points. If it acutally tweets 20 pts)
 
 Create an API that deals with tweets. A tweet schema looks like
 
